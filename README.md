@@ -24,10 +24,10 @@ It is Vrinda Store who wants to create an annual report for 2022. So that, the o
    * Highest selling category?
 
   # Process which used while creating dashboard
-   * Verify data for any missing values and anomalies, and sort out the same.
+   * Verify data, and check missing values, error in spelling, remove duplicates by using              conditional formating, and sort out the same.
    * Made sure data is consistent and clean with respect to data type, data format and values used.
    * Created pivot tables according to the questions asked.
-   * Merge all pivot tables into one dashboard and apply slicer to make [dashboard interactive](https://github.com/subhashigupta01/Vrinda-Store-Data-Analysis/blob/acd8e3f1c77dec57661fa588b3990242eddd455c/vrinda%20store%20sales%20dashboard.png) and dynamic
+   * Merge all pivot tables into one dashboard and apply slicer to make [interactive and dynamic dashboard](https://github.com/subhashigupta01/Vrinda-Store-Data-Analysis/blob/acd8e3f1c77dec57661fa588b3990242eddd455c/vrinda%20store%20sales%20dashboard.png)
 
   # Dashboard
   ![vrinda store sales dashboard](https://github.com/subhashigupta01/Vrinda-Store-Data-Analysis/assets/156787187/fc5b1888-0fed-499d-98fb-afad3499ba52)
@@ -36,12 +36,12 @@ It is Vrinda Store who wants to create an annual report for 2022. So that, the o
     After creating dashboards below is some meaningful insights. 
   * Women customers are more likely to buy products compared to men (~65%).
   * The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
-  * The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
-  * The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
+  * The adult age group (30-49 yrs) is maximum contributing (~50%) and buying the most products.
+  * The maximum number of customer buying there products from Amazon, Flipkart and Myntra channels.
 
  # Final Conclusion
-   After analysing vrinda store sales report I got conclusion to solve there sales problems that if vrinda store wants to improve sales then they       should target the women customers of the age group(30-49) years whho are living in Maharashtra, Karnataka and Uttar Pradesh by showing  
-   ads/offers/coupons available on Amazon, Flipkart and Myntra.
+   After analysing vrinda store sales report I got conclusion to solve there sales problems that if vrinda store wants to improve sales then they should target the women customers of the age group(30-49) years who are living in Maharashtra, Karnataka and Uttar Pradesh by showing  
+   ads/offers/coupons/discount available on Amazon, Flipkart and Myntra.
 
 
 
