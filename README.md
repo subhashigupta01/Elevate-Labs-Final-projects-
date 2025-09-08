@@ -1,4 +1,4 @@
-# Retail Business Performance Profitability Analysi with Interactive Dashboard creation using MS EXCEL tools
+# Retail Business Performance Profitability Analysis with Interactive Dashboard creation using MS EXCEL tools
 This repository on Vrinda Store Sales Analysis 
 <br>
 by-Subhashi Gupta
