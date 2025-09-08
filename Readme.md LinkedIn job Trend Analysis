@@ -1,0 +1,87 @@
+# LinkedIn Job trend Analysis (Apr-June): A Excel And Power BI Insights
+<>br
+Subhashi Gupta
+As the global data landscape continues to evolve, staying informed about industry hiring trends has become crucial for professionals and organizations alike. In this project, I explored and visualized recent hiring activity for data-related roles using a dataset of LinkedIn job postings, specifically from April to May 2025. The goal was to uncover patterns in demand, identify the most sought-after roles, and highlight key employers in the data space.
+
+# Dataset Overview
+The dataset—LinkedIn Data Jobs Dataset—was scraped from LinkedIn and includes job postings for various data roles such as:
+*Data Analyst
+*Data Scientist
+*Data Engineer
+*Machine Learning Engineer
+*AI/ML Engineer
+*Product Analytics Specialists
+*Junior and Senior positions in data-related fields
+*Before diving into Power BI, I ensured the data was clean and ready for analysis. This involved checking for missing values and duplicate records, both of which were not present in the dataset.
+
+# Data Modeling in Power BI
+Once imported into Power BI, I created a custom Date Table using the DAX function and extended it with ADDCOLUMNS() to include year, month, and day fields. This enabled accurate time-based aggregations and comparisons across weeks and months.
+
+# I also created several measures using DAX, including:
+
+Total Listings
+Count of Distinct Roles
+Count of Hiring Companies
+Weekly distribution of job postings
+Monthly and daily trends
+
+
+# Key Findings
+## Overall Summary
+Total Listings: 873 job postings were recorded over the two-month period.
+Unique Roles: 401 distinct job titles were identified.
+Hiring Companies: 534 different companies posted job openings.
+
+# Most In-Demand Roles
+
+The most frequently posted positions include:
+
+Data Analyst – 152 postings
+Data Scientist – 72 postings
+Data Engineer – 58 postings
+Product Analytics Roles (both Scientist and Engineer) – 29 postings combined
+Machine Learning Engineer – 20 postings
+Junior and AI/ML Roles – 11 postings
+These numbers indicate strong demand for professionals skilled in analytics, engineering, and machine learning.
+
+# Top Companies Hiring
+
+Some of the most active recruiters for data talent were:
+
+Meta – 70 postings
+Netflix – 31 postings
+Amazon – 18 postings
+Google – 16 postings
+TikTok, Deloitte, PepsiCo, handshake, and PyjamaHR also showed significant activity.
+Interestingly, companies like Meta had higher postings in April, while Netflix showed increased activity in May, signaling possible shifts in hiring strategy or headcount planning.
+
+# Day-of-Week Analysis
+
+A review of posting frequency by day revealed:
+
+Peak Days: Thursday(71), Friday(58), and Wednesday(58)
+Low Days: Monday(19), Saturday(9), and Sunday(3)
+This trend shows that most job postings go live early in the week, offering guidance for job seekers on when to be most alert for new opportunities.
+
+Dashboard Design & Interactivity
+
+The Power BI dashboard was designed for clarity and usability. Interactive visuals allow users to filter and explore:
+
+
+# Job titles and trends
+
+*Company-wise hiring activity
+*Posting volume by day
+*Role-specific demand
+*The visual layout emphasizes trends and comparisons while supporting quick exploration of insights.
+
+# Conclusion
+This project demonstrates how data visualization and DAX-driven analytics in Power BI can bring clarity to the job market landscape. By tracking hiring behavior over time, data professionals can better understand where demand is growing and tailor their skills accordingly.
+
+Whether you're a job seeker, career advisor, or recruiter, this dashboard provides a data-driven lens into one of the world’s most dynamic job sectors.
+
+
+
+
+
+
